@@ -1,4 +1,4 @@
-# gummi_hw_handshake
+# gummi_hw_ee_handshake
 
 3D visualization here: https://gummiarmce.github.io/gummi_hw_ee_handshake/
 
